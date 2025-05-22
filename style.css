@@ -84,9 +84,11 @@
 }
 
 #biodata {
-    background: red;
+    background: darkslategrey;
     width: 100px;
-    height: 100px;
+    height: 50px;
+    color: white;
+    border-radius: 10px;
 }
 
 /* Footer Styles */

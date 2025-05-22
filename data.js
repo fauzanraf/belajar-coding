@@ -1,5 +1,5 @@
 const nama = "Fauzan Rafif";
-let usia = 10;
+let usia = 15;
 
 let biodata = document.getElementById('biodata');
 console.log(biodata);
